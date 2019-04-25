@@ -6,7 +6,7 @@ excerpt: "우리 일년 더 한다."
 ---
 
 <figure>
-<img src = "https://i.imgur.com/pTvWxlP.jpg" >
+<img src="/img/pTvWxlP.jpg" >
 
 <figcaption>2019년 7월말에 대회가 진행될 예정입니다. (7/20 예상, tentative) </figcaption>
 </figure>

@@ -4,6 +4,7 @@
 *::before {
     box-sizing: border-box;
 }
+
 /* General styles and layout */
 
 body {
@@ -16,7 +17,6 @@ body {
 .container {
     overflow: hidden;
     /* we don't want the pseudo-elements sticking out */
-    
     max-width: 960px;
 }
 
@@ -30,18 +30,13 @@ section {
     color: #000;
     text-align: center;
 }
+
 /*** Individual section styles and separators ***/
+
 /* Common style for pseudo-elements */
 
-section::before,
-section::after {
-    position: absolute;
-    content: '';
-    pointer-events: none;
-}
-
 header section {
-    min-height: 250px;
+    padding-bottom: 50px;
 }
 
 header h1 {
@@ -50,7 +45,7 @@ header h1 {
 
 header i.fa {
     font-size: 2em;
-    color: : rga(1, 1, 1) !important;
+    color: white;
 }
 
 header h2 {
@@ -76,35 +71,20 @@ header p {
 
 .ss-style-doublediagonal {
     z-index: 1;
-    padding-top: 2em;
+    padding-top: 4em;
     background: white;
-}
-
-.ss-style-doublediagonal::before,
-.ss-style-doublediagonal::after {
-    top: 0;
-    left: -25%;
-    z-index: -1;
-    width: 150%;
-    height: 75%;
-    background: white;
-    -webkit-transform: rotate(-2deg);
-    -ms-transform: rotate(-2deg);
-    transform: rotate(-2deg);
-    -webkit-transform-origin: 0 0;
-    -ms-transform-origin: 0 0;
-    transform-origin: 0 0;
 }
 
 .ss-style-doublediagonal::before {
-    height: 50%;
-    background: white;
-    -webkit-transform: rotate(-2deg);
-    -ms-transform: rotate(-2deg);
-    transform: rotate(-2deg);
-    -webkit-transform-origin: 3% 0;
-    -ms-transform-origin: 3% 0;
-    transform-origin: 3% 0;
+    content: '';
+    pointer-events: none;
+    position: absolute;
+    top: -50px;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 50px;
+    background: linear-gradient(to left top, white 50%, transparent 0);
 }
 
 section.main-content p {
@@ -116,13 +96,6 @@ section.main-content p {
 section.main-content .input-group {
     max-width: 50%;
     margin: 0 auto;
-}
-
-@media screen and (max-width: 768px) {
-    section.main-content .input-group {
-        max-width: 90%;
-        margin: 0 auto;
-    }
 }
 
 section.main-content .btn-danger {
@@ -151,8 +124,12 @@ section.main-content .form-control:focus {
     box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(255, 0, 0, 0.2);
 }
 
-section.main-content ul li {
-    margin-right: 4%;
+section.main-content ul {
+    margin-top: 1em;
+}
+
+section.main-content ul li:not(:first-child) {
+    margin-left: 4px;
 }
 
 section.main-content ul li a {
@@ -165,48 +142,70 @@ section.main-content ul li a:hover {
     font-size: 18px;
 }
 
-section.footer p {
-    margin-bottom: 0;
-}
-
-section.footer p a {
-    text-decoration: none;
-    color: white;
-    font-weight: bold;
-}
-
 .footer {
     z-index: 1;
-    margin-top: 10%;
+    margin-top: 8em;
     padding-top: 5px;
     background: #f64747;
     color: white;
     padding-bottom: 10px;
 }
 
-.footer::before,
-.footer::after {
-    top: 0;
-    left: -25%;
+.footer::before {
+    content: '';
+    pointer-events: none;
+    position: absolute;
+    top: -50px;
+    left: 0;
     z-index: -1;
-    width: 125%;
-    height: 105%;
-    background: #f64747;
-    -webkit-transform: rotate(-2deg);
-    -ms-transform: rotate(-2deg);
-    transform: rotate(-2deg);
-    -webkit-transform-origin: 0 0;
-    -ms-transform-origin: 0 0;
-    transform-origin: 0 0;
+    width: 100%;
+    height: 50px;
+    background: linear-gradient(to left top, #f64747 50%, transparent 0);
 }
 
-.footer::before {
-    height: 50%;
-    background: #f64747;
-    -webkit-transform: rotate(-2deg);
-    -ms-transform: rotate(-2deg);
-    transform: rotate(-2deg);
-    -webkit-transform-origin: 3% 0;
-    -ms-transform-origin: 3% 0;
-    transform-origin: 3% 0;
+.footer .owner {
+  font-size: 1.2em;
+}
+
+.footer .credit {
+  margin-top: 1em;
+  font-size: 0.8em;
+}
+
+.footer .credit a {
+    text-decoration: underline dotted;
+    color: white;
+}
+
+figure img {
+    max-width: 100%;
+}
+
+figure figcaption {
+    margin-top: 1em;
+}
+
+.row:not(:first-child) {
+    margin-top: 2em;
+}
+
+@media screen and (max-width: 768px) {
+    header section {
+        padding-bottom: 30px;
+    }
+    .ss-style-doublediagonal::before {
+        top: -30px;
+        height: 30px;
+    }
+    section.main-content .input-group {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    .footer {
+        margin-top: 6em;
+    }
+    .footer::before {
+        top: -30px;
+        height: 30px;
+    }
 }
