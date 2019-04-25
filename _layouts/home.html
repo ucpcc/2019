@@ -23,19 +23,17 @@
 </head>
 
 <body>
-    <header>
-        <section class="color">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xs-12">
-                        <h1><i class="fa fa-clock-o"></i></h1>
-                        <h2>{{ page.title | default: site.title }}</h2>
-                        <p>{{ page.excerpt | default: site.description }}</p>
-                    </div>
+    <section class="header">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1><i class="fa fa-clock-o"></i></h1>
+                    <h2>{{ page.title | default: site.title }}</h2>
+                    <p>{{ page.excerpt | default: site.description }}</p>
                 </div>
             </div>
-        </section>
-    </header>
+        </div>
+    </section>
     <section class="ss-style-doublediagonal main-content">
         <div class="container">
             <div class="row">
@@ -79,12 +77,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 text-center">
-                    <p class="owner">2019 - {{ site.owner.name }}</p>
-                    {% if site.owner.aboutlink.url %}
-                    <p>
-                      <a href="{{ site.owner.aboutlink.url }}">{{ site.owner.aboutlink.caption | default: "About" }}</a>
+                    <p class="owner">
+                        <span class="year">2019</span>
+                        -
+                        <span class="name">
+                          {% if site.owner.homepage %}
+                          <a href="{{ site.owner.homepage }}">{{ site.owner.name }}</a>
+                          {% else %}
+                          {{ site.owner.name }}
+                          {% endif %}
+                        </span>
                     </p>
-                    {% endif %}
                     <p class="credit">
                         Designed by <a target="_blank" href="https://www.behance.net/gallery/18421675/Free-Bootstrap-Psd-Coming-Soon-Template">Ilya B.</a><br>
                         Converted by <a target="_blank" href="https://github.com/MortezaAghili/YAX-Coming-soon-HTML5-CSS3-Template">M. Aghili</a>, <a target="_blank" href="https://github.com/yonojoy/YAX-Coming-soon-Jekyll-Template">yonojoi</a> and <a target="_blank" href="https://github.com/xdoju">Doju</a>
