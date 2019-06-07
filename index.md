@@ -46,7 +46,7 @@ ACM-ICPC를 준비하는 학생, 프로그래밍 대회에 관심이 있는 학�
     return str;
   }
   window.onload = function () {
-    var picture_num = Math.floor(Math.random() * 11);
+    var picture_num = Math.floor(Math.random() * 10);
     var picture_name = 'main-pic-' + lpad(picture_num, '0', 2) + '.jpg';
     var path = '{{ "/assets/" | relative_url }}' + picture_name;
     document.getElementById('main-pic').src = path;
