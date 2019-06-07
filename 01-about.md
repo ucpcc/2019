@@ -83,38 +83,17 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합(이하 �
 - 1등상 (1위)
 - 2등상 (2위~3위)
 - 3등상 (4위~6위)
-- 참가상 : 모든 참가팀에게 상품 
+- 참가상 : 모든 참가팀에게 상품
 
 ### 과거 대회 정보
 
 과거에 열렸던 UCPC의 정보와 문제들을 살펴보고 다가올 대회를 준비해보세요!
 
-#### UCPC 2018
-
- * [문제들(예선)](https://www.acmicpc.net/category/detail/1891)
- * [문제들(본선)](https://www.acmicpc.net/category/detail/1893)
- * [풀이(예선)](https://docs.google.com/presentation/d/1y4f_ZCcWgCZocPZozsaFZpn2AJSx3ZtPwEFM3h7NurU)
- * [풀이(본선)](https://docs.google.com/presentation/d/1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA/edit#slide=id.p)
- * [대회 결과](https://ucpc.acmicpc.net/contest/spotboard/314)
-
-#### UCPC 2016
-
- * [문제들](https://www.acmicpc.net/category/detail/1510)
- * [풀이](https://www.slideshare.net/JeonDaePeuYeon/2016-ucpc-65393552)
-
-#### UCPC 2015
-
- * [문제들](https://www.acmicpc.net/category/detail/1358)
- * [풀이](https://www.slideshare.net/SunyoungKim14/5-51953762)
- * [대회 결과](https://ucpc2015.acmicpc.net/)
-
-#### UCPC 2014
-
- * [문제들](https://algospot.com/judge/problem/list/?source=제4회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회)
- * [대회 결과](http://140823.hodduc.net/)
-
-#### UCPC 2013
-
- * [문제들](https://algospot.com/judge/problem/list/?source=제3회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회)
- * [풀이](https://dl.dropboxusercontent.com/s/lvx9t5xunt9bbja/ucpc-3rd-solution-slide.pdf)
- * [대회 결과](https://dl.dropboxusercontent.com/s/sk5n8ur0kl7l5gq/ucpc-3rd-standing.png)
+|대회|문제|풀이|결과|
+|-|-|-|-|-|
+|UCPC2018 본선| [문제](https://www.acmicpc.net/category/detail/1893)  | [풀이](https://docs.google.com/presentation/d/1iL3syHDaOAgvip0-Dd_bS3Zl-07xD5LqbhYNeH30AFA/edit#slide=id.p) | [대회 결과](https://ucpc.acmicpc.net/contest/spotboard/314) |
+|UCPC2018 예선| [문제](https://www.acmicpc.net/category/detail/1891)|  [풀이](https://docs.google.com/presentation/d/1y4f_ZCcWgCZocPZozsaFZpn2AJSx3ZtPwEFM3h7NurU) | [대회 결과](https://www.acmicpc.net/contest/spotboard/307)|
+|UCPC2016   | [문제](https://www.acmicpc.net/category/detail/1510)| [풀이](https://www.slideshare.net/JeonDaePeuYeon/2016-ucpc-65393552) | [대회 영상](https://www.youtube.com/watch?v=vScs5byLKcc) |
+|UCPC2015   | [문제](https://www.acmicpc.net/category/detail/1358) | [풀이](https://www.slideshare.net/SunyoungKim14/5-51953762)   | [대회 결과](https://ucpc2015.acmicpc.net/) |
+|UCPC2014   | [문제](https://algospot.com/judge/problem/list/?source=제4회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회) |   | [대회 결과](http://140823.hodduc.net/)|
+|UCPC2013   | [문제](https://algospot.com/judge/problem/list/?source=제3회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회) | [풀이](https://dl.dropboxusercontent.com/s/lvx9t5xunt9bbja/ucpc-3rd-solution-slide.pdf) | [대회 결과](https://dl.dropboxusercontent.com/s/sk5n8ur0kl7l5gq/ucpc-3rd-standing.png) |
