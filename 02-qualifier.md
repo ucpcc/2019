@@ -6,8 +6,8 @@ permalink: /qualifier/
 
 ### 일정
 
-* 예비소집 : 7월 14일 (토) 00:00 ~ 23:59
-* 온라인 예선 대회 : 7월 15일 (일) 14:00 ~ 17:00
+* 예비소집 : 7월 26일 (금) 00:00 ~ 23:59
+* 온라인 예선 대회 : 7월 27일 (토) 14:00 ~ 17:00
 
 ### 대회 진행
 
@@ -37,7 +37,7 @@ permalink: /qualifier/
 ### 사용 가능 언어
 
 ACM-ICPC 한국 지역대회의 경향을 따라
-**C11, C++14, Java (OpenJDK), Python 3, PyPy3** 만 사용 가능합니다.
+**C11, C++14, Java (OpenJDK), Kotlin (OpenJDK) Python 3, PyPy3** 만 사용 가능합니다.
 언어별 환경과 실행방법은 [BOJ의 언어별 환경](https://www.acmicpc.net/help/language) 페이지를 참고해주세요.
 
 ACM-ICPC 한국 지역대회의 경향을 따라 **언어 별 추가 시간과 추가 메모리는 제공되지 않습니다**.
