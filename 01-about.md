@@ -45,7 +45,7 @@ UCPC는 전국 대학생 프로그래밍 대회 준비 동아리 연합(이하 �
  * 참가 자격을 만족하는 학생 3명이 한 팀을 이뤄 참가 신청을 합니다.
  * 한 팀의 학생들이 전부 같은 학교 소속일 필요는 없습니다.
  * 아래의 참가 신청서 링크로 들어가 신청서를 작성해주시면 됩니다.
- * [참가 신청서](https://docs.google.com/forms/d/e/1FAIpQLScmiy4rTEpTaHoNf9V7vdZoxJcTvjq_Qj8rzE769i24ZVfT0Q/viewform)
+ * **참가 신청은 마감되었습니다.**
 
 ### 대회 정보
 
