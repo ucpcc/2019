@@ -13,6 +13,8 @@ layout: default
 
 ## Update
 
+- *19.07.25 : **스태프** 모집 내용이 업로드되었습니다.*
+- *19.07.25 : **예선 예비소집 일정과 본선 일정**이 공지되었습니다.*
 - *19.07.07 : [참가 현황](https://docs.google.com/spreadsheets/d/1ps3LDcKXaZqVgQu4lhjAu9pmDPv9ZL4DH6iSIiIoam4/edit?usp=sharing)을 공유하였습니다. 이전 링크로는 수정하실 수 없습니다. 이후 수정 및 확인 관련 문의사항은 이메일로 연락해주세요.*
 - *19.07.06 : 참가 신청이 마감되었습니다. 신청자 목록은 7.9(화)전까지 정리하여 공지할 예정입니다.*
 - *19.07.05 : 참가 신청 마감 이후, 총괄적으로 팀 정보 수정 요청을 처리할 예정입니다.*
@@ -51,11 +53,14 @@ ACM-ICPC를 준비하는 학생, 프로그래밍 대회에 관심이 있는 학�
 
 ---
 # Sponsor
+
+## 전국대학생프로그래밍대회동아리연합
 ## 삼성전자 & 삼성 소프트웨어멤버십
 ## Algospot
 ## Startlink (BOJ)
 ## 리얼리티리플렉션
 ## KENNYSOFT
+## 고려대학교 소프트웨어중심사업단
 
 <script type="text/javascript">
   function lpad(num, pad_str, len) {
