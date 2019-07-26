@@ -33,10 +33,10 @@ permalink: /final/
  * 참가팀에게 대회 당일 대회용 계정정보를 나눠드릴 예정입니다. 이 계정을 통해 BOJ에 접속하여 대회를 치르면 됩니다.
  * 팀별로 1부씩 인쇄된 문제지를 나눠드립니다. 물론 대회 플랫폼에서도 문제를 확인하실 수 있습니다.
  * 팀별로 Wi-Fi 접속이 가능한 1대의 노트북/PC를 가져오셔야 합니다. 가져온 머신으로 대회를 치르게 됩니다.
- * Wi-Fi는 고려대학교 재학생(ex. 회장 subinium 계정)의 계정을 통한 교내 Wi-Fi, eduroam, 또는 개인 핫스팟을 사용하면 됩니다.
+ * eduroam, Wi-Fi는 고려대학교 재학생(ex. 회장 subinium 계정)의 계정을 통한 교내 Wi-Fi, 또는 개인 핫스팟을 사용하면 됩니다.
  * 팀노트, 책 등의 각종 참고자료를 자유롭게 가져와 살펴볼 수 있습니다.
  * 가져올 머신에 여러가지 코드나 자료를 넣어와서 대회 중에 사용해도 됩니다.
- * 대회 중에는 대회장에서 제공하는 Wi-Fi만을 이용해 인터넷에 접속하셔야 합니다. 이 Wi-Fi를 통하면 대회 플랫폼을 제외한 다른 모든 인터넷 사이트에 대한 접속이 차단됩니다. 따라서 대회가 진행되는 동안 인터넷 검색을 할 수 없습니다. 단, 아래의 문서에 한해 대회 진행 중에도 참고하실 수 있습니다.
+ * 대회가 진행되는 동안 인터넷 검색을 할 수 없습니다. 단, 아래의 문서에 한해 대회 진행 중에도 참고하실 수 있습니다.
    * C reference: http://en.cppreference.com/w/c
    * C++ reference: http://en.cppreference.com/w/cpp
    * Java documentation: http://docs.oracle.com/javase/8/docs/api/
@@ -73,7 +73,7 @@ permalink: /final/
 ### 사용 가능 언어
 
 ACM-ICPC 한국 지역대회의 경향을 따라
-**C11, C++14, Java (OpenJDK), Kotlin (JDK), Python 3, PyPy3** 만 사용 가능합니다.
+**C11, C++14, Java (OpenJDK), Kotlin (JVM), Python 3, PyPy3** 만 사용 가능합니다.
 언어별 환경과 실행방법은 [BOJ의 언어별 환경](https://www.acmicpc.net/help/language) 페이지를 참고해주세요.
 
 ACM-ICPC 한국 지역대회의 경향을 따라 **언어 별 추가 시간과 추가 메모리는 제공되지 않습니다**.
