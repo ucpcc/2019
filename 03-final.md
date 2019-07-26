@@ -68,7 +68,8 @@ permalink: /final/
 
 ### 채점 환경
 
-[BOJ의 채점 환경](https://www.acmicpc.net/help/judge) 페이지를 참고해주세요.
+- [대회 안내](https://ucpc.acmicpc.net/info) 페이지를 참고해주세요.
+- 모든 문제는 대회에서 지원하는 언어 중 하나 이상을 이용하여 시간 제한과 메모리 제한 안에 풀 수 있음이 보장되어 있습니다.
 
 ### 사용 가능 언어
 
