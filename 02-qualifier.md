@@ -4,6 +4,13 @@ title: 온라인 예선
 permalink: /qualifier/
 ---
 
+### 온라인 예선 대회 종료
+
+온라인 예선 대회가 끝났습니다. 스코어보드와 본선 진출팀은 후에 공개하겠습니다.
+
+- [문제 pdf](https://drive.google.com/file/d/1WAci8u_VY8FKeiwbsKN4CVOVg1W4fQxH/view)
+- [풀이 pdf](https://drive.google.com/file/d/1lEkJ4sW5s2bD8SXHh2nYVp8MgXf2nkNg/view)
+
 ### 일정
 
 * 예비소집 : 7월 26일 (금) 00:00 ~ 7월 27일 (토) 13:00
