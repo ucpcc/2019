@@ -13,7 +13,7 @@ layout: default
 
 ## Update
 
-- *19.09.26 : 팀별 계정을 메일로 전송하였습니다. 예선 예비소집 및 온라인 대회는 https://ucpc.acmicpc.net/info 에서 진행됩니다.* 
+- *19.07.26 : 팀별 계정을 메일로 전송하였습니다. 예선 예비소집 및 온라인 대회는 https://ucpc.acmicpc.net/info 에서 진행됩니다.* 
 - *19.07.25 : **스태프** 모집 내용이 업로드되었습니다.*
 - *19.07.25 : **예선 예비소집 일정과 본선 일정**이 공지되었습니다.*
 - *19.07.07 : [참가 현황](https://docs.google.com/spreadsheets/d/1ps3LDcKXaZqVgQu4lhjAu9pmDPv9ZL4DH6iSIiIoam4/edit?usp=sharing)을 공유하였습니다. 이전 링크로는 수정하실 수 없습니다. 이후 수정 및 확인 관련 문의사항은 이메일로 연락해주세요.*
