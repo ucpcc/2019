@@ -9,7 +9,10 @@ permalink: /qualifier/
 온라인 예선 대회가 끝났습니다. 스코어보드와 본선 진출팀은 후에 공개하겠습니다.
 
 - [문제 pdf](https://drive.google.com/file/d/1WAci8u_VY8FKeiwbsKN4CVOVg1W4fQxH/view)
+	- 대회 종료 후 일부 문제의 디스크립션이 변경되었습니다. [문제(수정본) pdf](https://drive.google.com/file/d/1-aqfgeu1Po5X18FSuDNsdlCD4ymhqggf/view)
 - [풀이 pdf](https://drive.google.com/file/d/1lEkJ4sW5s2bD8SXHh2nYVp8MgXf2nkNg/view)
+- [스코어보드](https://ucpc.acmicpc.net/contest/spotboard/449)
+- [다시 풀어보기](https://www.acmicpc.net/category/detail/2053)
 
 ### 일정
 
