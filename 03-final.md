@@ -4,12 +4,25 @@ title: 본선
 permalink: /final/
 ---
 
+### 본선 대회 종료
+
+
+- [문제 pdf](assets/UCPC2019_notitle_original.pdf)
+	- 대회 종료 후 일부 문제의 디스크립션이 변경되었습니다. [문제(수정본) pdf](/assets/UCPC2019_notitle_modified.pdf)
+- [풀이 pdf](assets/UCPC2019_sol_stat.pdf)
+- [스코어보드](https://www.acmicpc.net/contest/spotboard/450)
+- [다시 풀어보기](https://www.acmicpc.net/category/detail/2054?fbclid=IwAR28RjxRB0KZlrU2Pkyap_RdDy4SkM4AHthzS3G2xnw59_ViglkNF8fjaJ8)
+- [대회 사진](https://photos.app.goo.gl/SNjfiqK2h1sfMsMh6)
+- [Award Ceremony Video](https://youtu.be/Pddl2v8XaOI)
+
+
 ### 본선 참가 정보
 
  * 온라인 예선 상위 45팀에게 대회 종료 직후, 연락을 드릴 예정입니다.
+ * 본선은 총 48팀으로 확정되었습니다.
  * UCPC 2019 본선은 대회장에 팀원 3명 모두 접수해야 입장할 수 있습니다. 혹시 이 날 참가할 수 없게 되었거나 참가하길 원하지 않는 팀은 메일로 알려주세요.
  * UCPC 2019 본선에 참가할 팀은 팀원 3명의 대학교/대학원 재학 증명자료 (재학증명서 or 졸업예정증명서 or 휴학증명서)를 스캔해 첨부하여 **7월 31일 23:59** 까지 메일로 보내주세요.
- * [현재 참가 확인된 팀 명단(+티셔츠 사이즈)](https://docs.google.com/spreadsheets/d/1MhMVlMSk47DgcQM-oJ6X0bxYii1jPVGtcMqq5eQoHr8/edit?usp=sharing)
+ * [참가 확인 팀 명단(+티셔츠 사이즈) 및 등록](https://docs.google.com/spreadsheets/d/1MhMVlMSk47DgcQM-oJ6X0bxYii1jPVGtcMqq5eQoHr8/edit?usp=sharing)
  * 티셔츠 사이즈 변경은 7월 31일 23:59까지 subinium@gmail.com으로 연락주세요.
 
 ### 일정
